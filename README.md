@@ -2,4 +2,4 @@
 
 ### Tapshiriq:
 
-Bugun yazdiglarimizi Identity-nen etmek.
+Bugun yazdiglarimizi Identity-nen etmek ve lazim olan hisseleri ayri ClassLibrary-e chixartmaq.
